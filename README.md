@@ -35,7 +35,7 @@ The final genome assembly will be the my_directory_final.fasta file.
 
 Download Docker image
 ```shell
-git clone https://github.com/emyounglab/prymetime.git
+git clone https://github.com/emyounglab/tool_prymetime.git
 ```
 Build Docker image
 ```shell
@@ -68,7 +68,7 @@ The final genome assembly will be the my_directory_final.fasta file.
 
 The -eng_sig option will also produce a PDF displaying engineering signatures that were found in the genome assembly, shown below:
 
-![FEY_2 engineering signatures](https://github.com/emyounglab/prymetime/blob/master/docs/FEY_2_chromo_alitv.jpg)
+![FEY_2 engineering signatures](https://github.com/emyounglab/tool_prymetime/blob/master/docs/FEY_2_chromo_alitv.jpg)
 
 The eng_sig_felix.fasta file (provided in the PRYMETIME folder) contains all engineering signatures used in this study.
 
@@ -91,7 +91,7 @@ The run time of Prymetime will depend highly on the computer or server used, and
 
 ### Detailed Prymetime genome assembly pipeline
 
-![Prymetime_pipeline](https://github.com/emyounglab/prymetime/blob/master/docs/PRYMETIME_pipeline_description_2.jpg)
+![Prymetime_pipeline](https://github.com/emyounglab/tool_prymetime/blob/master/docs/PRYMETIME_pipeline_description_2.jpg)
 
 ### Supporting software
 Prymetime utilizes the following software packages:
@@ -109,7 +109,7 @@ Prymetime utilizes the following software packages:
 * [AliTV](https://github.com/AliTVTeam/AliTV)
 
 ### Prymetime genome assemblies
-* [prymetime_genomes](https://github.com/emyounglab/prymetime_genomes)
+* [prymetime_genomes](https://github.com/emyounglab/paper_prymetime_genomes)
 
 ### Publication
 
